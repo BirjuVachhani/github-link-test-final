@@ -4,7 +4,7 @@ A new codelessly starter project
 
 URL: https://BirjuVachhani.github.io/github-link-test-final
 
-[![Publish to Github Pages](https://github.com/BirjuVachhani/github-link-test-final/actions/workflows/publish_pages.yaml/badge.svg)](https://github.com/BirjuVachhani/BirjuVachhani/actions/workflows/publish_pages.yaml)
+[![Publish to Github Pages](https://github.com/BirjuVachhani/github-link-test-final/actions/workflows/publish_pages.yaml/badge.svg)](https://github.com/BirjuVachhani/github-link-test-final/actions/workflows/publish_pages.yaml)
 
 ## IMPORTANT
 
